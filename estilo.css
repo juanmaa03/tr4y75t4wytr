@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(94, 221, 179);
+}
+h2{
+    color: darkgreen;
+}
+.nuevafuente{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cambioBolder{
+    font-weight: 9;
+}
